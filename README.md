@@ -164,6 +164,7 @@ Then add the following content:
   LogLevel warn
   CustomLog ${APACHE_LOG_DIR}/access.log combined
 </VirtualHost>
+```
 
 
 #### 14. Reload & Restart Apache Server
